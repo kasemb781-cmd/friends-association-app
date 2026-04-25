@@ -1,0 +1,6 @@
+{
+  "name": "Friends Association",
+  "short_name": "FA App",
+  "start_url": "./",
+  "display": "standalone"
+}
